@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "label": "超级马里奥",
+    "tag": ["动作冒险", "战略策略"],
+    "url": "https: //taiyuuki.github.io/nes-vue/Super Mario Bros (JU).nes",
+    "imgUrl": "https: //tse4-mm.cn.bing.net/th/id/OIP-C.qiHCc5C9W_fl72_0fRhMfAHaFy?w=218&h=180&c=7&r=0&o=5&pid=1.7",
+    "description": "超级玛丽是一款经典的横版动作游戏,玩家扮演的是可爱的意大利水管工马里奥,在各种挑战中踏上拯救公主的冒险之旅。"
+  },
+  {
+    "id": "2",
+    "label": "魂斗罗1（无限命版本）",
+    "tag": ["飞行射击", "战略策略"],
+    "url": "https: //taiyuuki.github.io/nes-vue/Super Mario Bros (JU).nes",
+    "imgUrl": "https: //tse4-mm.cn.bing.net/th/id/OIP-C.qiHCc5C9W_fl72_0fRhMfAHaFy?w=218&h=180&c=7&r=0&o=5&pid=1.7",
+    "description": "魂斗罗是非常经典的游戏。因为它其中的很多关卡的内容吸收了1979年的美国科幻片《异形》的元素而深入人心。"
+  }
+]
