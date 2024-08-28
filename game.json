@@ -14,5 +14,37 @@
     "url": "https://lixin59.github.io/nes-file/static/roms/Contra1(U)30.nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/Contra1(U)30.png",
     "description": "魂斗罗是非常经典的游戏。因为它其中的很多关卡的内容吸收了1979年的美国科幻片《异形》的元素而深入人心。"
+  },
+  {
+    "id": "3",
+    "label": "双截龙1",
+    "tag": ["角色冒险"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon1.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/DoubleDragon1.png",
+    "description": "游戏设定在一个充满暴力和犯罪的世界，玩家扮演双胞胎兄弟李比利（Billy Lee）和李吉米（Jimmy Lee），为了救出被黑帮绑架的女友玛莲（在部分版本中称为玛丽安），与恶势力展开斗争。"
+  },
+  {
+    "id": "4",
+    "label": "双截龙2",
+    "tag": ["动作冒险","街机"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon2.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/DoubleDragon2.png",
+    "description": "继续讲述李比利和李吉米两兄弟的故事，他们在成功救出玛莲后，再次面对新的威胁和挑战，为了正义和和平与恶势力展开复仇之战。"
+  },
+  {
+    "id": "5",
+    "label": "双截龙3",
+    "tag": ["横版动作", "动作冒险"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon3.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/DoubleDragon3.png",
+    "description": "在《双截龙II:复仇》事件一年后，一个新的敌人威胁到比利和吉米两兄弟，他们的女友玛丽安再次被神秘组织绑架。为了营救玛丽安，两兄弟踏上了寻找三块神圣力量之石的冒险之旅。"
+  },
+  {
+    "id": "6",
+    "label": "双截龙4",
+    "tag": ["动作冒险"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon4.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/DoubleDragon4.png",
+    "description": "作为系列的正统续作，《双截龙4》继续讲述李比利和李吉米两兄弟的故事。在新的冒险中，两兄弟将面对更加强大的敌人和更加复杂的挑战，为了维护正义和和平而展开激烈的战斗。"
   }
 ]
