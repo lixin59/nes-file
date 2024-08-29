@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "SuperMarioBros",
     "label": "超级马里奥",
     "tag": ["动作冒险", "战略策略"],
     "url": "https://lixin59.github.io/nes-file/static/roms/Super Mario Bros.nes",
@@ -8,7 +8,7 @@
     "description": "超级玛丽是一款经典的横版动作游戏,玩家扮演的是可爱的意大利水管工马里奥,在各种挑战中踏上拯救公主的冒险之旅。"
   },
   {
-    "id": "2",
+    "id": "Contra1(U)30",
     "label": "魂斗罗1（无限命版本）",
     "tag": ["飞行射击", "战略策略"],
     "url": "https://lixin59.github.io/nes-file/static/roms/Contra1(U)30.nes",
@@ -16,7 +16,7 @@
     "description": "魂斗罗是非常经典的游戏。因为它其中的很多关卡的内容吸收了1979年的美国科幻片《异形》的元素而深入人心。"
   },
   {
-    "id": "3",
+    "id": "DoubleDragon1",
     "label": "双截龙1",
     "tag": ["角色冒险"],
     "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon1.nes",
@@ -24,7 +24,7 @@
     "description": "游戏设定在一个充满暴力和犯罪的世界，玩家扮演双胞胎兄弟李比利（Billy Lee）和李吉米（Jimmy Lee），为了救出被黑帮绑架的女友玛莲（在部分版本中称为玛丽安），与恶势力展开斗争。"
   },
   {
-    "id": "4",
+    "id": "DoubleDragon2",
     "label": "双截龙2",
     "tag": ["动作冒险","街机"],
     "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon2.nes",
@@ -32,7 +32,7 @@
     "description": "继续讲述李比利和李吉米两兄弟的故事，他们在成功救出玛莲后，再次面对新的威胁和挑战，为了正义和和平与恶势力展开复仇之战。"
   },
   {
-    "id": "5",
+    "id": "DoubleDragon3",
     "label": "双截龙3",
     "tag": ["横版动作", "动作冒险"],
     "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon3.nes",
@@ -40,11 +40,27 @@
     "description": "在《双截龙II:复仇》事件一年后，一个新的敌人威胁到比利和吉米两兄弟，他们的女友玛丽安再次被神秘组织绑架。为了营救玛丽安，两兄弟踏上了寻找三块神圣力量之石的冒险之旅。"
   },
   {
-    "id": "6",
+    "id": "DoubleDragon4",
     "label": "双截龙4",
     "tag": ["动作冒险"],
     "url": "https://lixin59.github.io/nes-file/static/roms/DoubleDragon4.nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/DoubleDragon4.png",
     "description": "作为系列的正统续作，《双截龙4》继续讲述李比利和李吉米两兄弟的故事。在新的冒险中，两兄弟将面对更加强大的敌人和更加复杂的挑战，为了维护正义和和平而展开激烈的战斗。"
+  },
+  {
+    "id": "TaoJinZhe",
+    "label": "淘金者",
+    "tag": ["休闲益智"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/TaoJinZhe.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/TaoJinZhe.png",
+    "description": "《淘金者》（Lode Runner）是一款经典的休闲益智类游戏，最初由Douglas E. Smith制作，并由Brøderbund在1983年发布。这款游戏以其独特的玩法和关卡编辑器而闻名，为玩家带来了无尽的挑战和乐趣。《淘金者》的游戏目标非常明确：玩家需要控制角色在限定时间内取得关卡中的所有金子，并找到出口过关。在游戏中，玩家会面临各种敌人的阻挠，这些敌人会试图抓住并杀死玩家。为了应对这些敌人，玩家可以利用唯一的掘地能力，在土地面上挖坑来陷阱敌人。但请注意，被挖开的地面会过一段时间重新填平，如果敌人在此时还没爬出来，就会被埋死。然而，敌人会复活，并从固定的地点重新出现。"
+  },
+  {
+    "id": "Tank1990",
+    "label": "坦克大战1990",
+    "tag": ["射击"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/Tank1990.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/Tank1990.png",
+    "description": "坦克大战1990（或称为《超级坦克大战1990》、《Tank 1990 HD》等）是一款经典的坦克射击游戏，自诞生以来便以其独特的魅力和无尽的挑战吸引了无数玩家。这款游戏不仅在游戏厅和FC机上风靡一时，还随着技术的进步，被完美复刻并移植到了安卓平台，让更多玩家能够重温经典。"
   }
 ]
