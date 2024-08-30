@@ -126,5 +126,21 @@
     "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland4(S).nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland4(S).png",
     "description": "《冒险岛4》是一款由NEXON开发的FC红白机游戏，是经典冒险岛系列的第四部作品。游戏延续了前作的经典元素，包括多样化的游戏世界、可爱的角色设计和丰富的冒险内容。玩家可以选择不同的职业角色，如战士、法师、弓箭手等，拥有各自独特的技能和特点。游戏中有丰富的任务和副本挑战，玩家可以与其他玩家组队协作，还可以参加各种活动和比赛获得丰厚奖励。除此之外，游戏还有丰富的装备和道具系统，玩家可以通过打怪掉落、商店购买或任务奖励来获取装备，不断提升自己的实力。总体来说，《冒险岛4》是一款充满趣味和挑战的经典冒险游戏，让玩家在游戏中享受无尽的冒险乐趣。"
+  },
+  {
+    "id": "GuerrillaWar",
+    "label": "古巴战士革命英雄 (Guerrilla War)",
+    "tag": ["射击","军事","解救"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/GuerrillaWar.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/GuerrillaWar.png",
+    "description": "《古巴战士革命英雄》是一款由 SNK 开发并于1987年发布的 FC 红白机游戏。玩家将扮演两名古巴游击队成员，他们的任务是推翻一个虚构的拉丁美洲国家的独裁政权。游戏采用了俯视视角，玩家可以控制游戏中的角色在不同的关卡中进行射击和战斗。玩家还可以收集武器、弹药和其他道具来帮助他们完成任务。"
+  },
+  {
+    "id": "Jackal",
+    "label": "赤色要塞（Jackal）",
+    "tag": ["动作射击"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/Jackal.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/Jackal.png",
+    "description": "《赤色要塞》的剧情设定中，玩家的战友被关押在敌方战线，玩家是他们重获自由的唯一希望。为了解救战友，玩家需要驾驶一辆吉普车（如M151吉普车），深入敌后，与各种敌人作战，并解救被困在战俘营的战友，最终将他们安全送到己方的直升机中。游戏的背景横跨了第二次世界大战和越南战争两段历史，非常贴近现实，使得游戏更具代入感和真实感。"
   }
 ]
