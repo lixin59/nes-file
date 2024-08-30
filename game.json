@@ -97,11 +97,11 @@
   },
   {
     "id": "AdventureIsland1(S)",
-    "label": "冒险岛1（无敌）",
+    "label": "冒险岛1 僵尸版",
     "tag": ["横版过关"],
     "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland1(S).nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland1(S).png",
-    "description": "《冒险岛1》是一款由韩国游戏公司Nexon开发的2D横版卷轴冒险游戏。玩家可以选择不同职业的角色，如战士、弓箭手、法师等，每个职业都有独特的技能和特点。游戏中玩家可以在各种地图上探险，打怪升级，完成任务，挑战副本和BOSS等。"
+    "description": "冒险岛1 僵尸版是FC红白机平台最早的动作冒险题材的游戏一，游戏中一个憨头憨脑的小穿白色短裤的小胖子在一个小岛里狂奔，路上有很多水果可以捡取来增加生命值，这个生命值是随时间一直下降的，如果一段时间没有水果补充，主角就会死亡。游戏中玩家还需要躲避很多小怪物，以及岩石啊火堆等障碍物，冒险岛的整体难度非常高。和超级马里奥，索尼克等游戏一样，这是一款2D横向卷轴游戏。游戏的目的是救出主角高桥名人的恋人蒂娜。“高桥名人”，确有其人，名为“高桥利幸”，原就职于日本的HUDSON公司，高桥利幸先生当时由于创下了每秒钟按键16次的连发记录，而名声大噪，成为全日本家喻户晓的名人，HUDSON公司也趁热打铁，推出了以“高桥利幸”为主角的游戏《冒险岛》游戏共分8个大岛，每岛有若干关，最终都有一个BOSS。每个岛的风格也是各不相同，场景令人眼花缭乱，包涵了草地，山路，洞穴，冰原，雪地，火山，水下，甚至云层上。游戏中不但有火龙、冰龙、水龙、翼龙四种龙可以骑着战斗，还有很多隐藏要素可以挖掘。最后BOSS是只恶心的大苍蝇，将之KO后主角会遇到GF，从此幸福的一起在孤岛上生活！"
   },
   {
     "id": "AdventureIsland2(S)",
@@ -113,7 +113,7 @@
   },
   {
     "id": "AdventureIsland3(SD)",
-    "label": "冒险岛3（无限命+龙）",
+    "label": "冒险岛3 女孩 换龙版",
     "tag": ["横版过关", "怪物"],
     "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland3(SD).nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland3(SD).png",
