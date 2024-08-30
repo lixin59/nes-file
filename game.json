@@ -62,5 +62,37 @@
     "url": "https://lixin59.github.io/nes-file/static/roms/Tank1990.nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/Tank1990.png",
     "description": "坦克大战1990（或称为《超级坦克大战1990》、《Tank 1990 HD》等）是一款经典的坦克射击游戏，自诞生以来便以其独特的魅力和无尽的挑战吸引了无数玩家。这款游戏不仅在游戏厅和FC机上风靡一时，还随着技术的进步，被完美复刻并移植到了安卓平台，让更多玩家能够重温经典。"
+  },
+  {
+    "id": "CrossFire(J)",
+    "label": "脱狱",
+    "tag": ["射击", "横版过关"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/CrossFire(J).nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/CrossFire(J).png",
+    "description": "在游戏中，玩家将扮演一名在越战中被俘的美国大兵，身处敌人的监狱之中，目标是想尽一切办法从牢房中逃脱，重新获得自由。游戏背景设定在紧张刺激的战争环境中，玩家需要面对大量敌人的阻挠，在不同的舞台中杀出一条血路，最终逃出生天。"
+  },
+  {
+    "id": "MachRider",
+    "label": "摩托车大赛 (JU) (PRG0) Mach Rider",
+    "tag": ["赛车"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/MachRider.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/MachRider.png",
+    "description": "摩托车大赛游戏通常让玩家扮演摩托车赛车手，在各种赛道上与其他选手竞速，体验高速驾驶的乐趣和刺激。游戏以摩托车竞速为核心玩法，结合了真实的物理引擎和精美的画面效果，为玩家带来身临其境的赛车体验。"
+  },
+  {
+    "id": "RoadFighter",
+    "label": "火箭车 (J) Road Fighter",
+    "tag": ["赛车"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/RoadFighter.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/RoadFighter.png",
+    "description": "在游戏中，玩家将驾驶一辆装备了喷气推进器的红色小跑车（实际上是1968年推出的第三代科尔维特C3，款式为1982款），在多样化的赛道上飞驰，不断避开前方的各种障碍物，争取以最快的速度到达终点。游戏共设有四关，包括街区赛道、跨海大桥、海滨公路和崎岖山谷，每一关都拥有独特的风景和挑战。"
+  },
+  {
+    "id": "Excitebike",
+    "label": "越野机车 (JU) Excitebike",
+    "tag": ["赛车", "横版过关"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/Excitebike.nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/Excitebike.png",
+    "description": "《越野机车》通常让玩家扮演一名摩托车赛车手，在各种崎岖、不平的赛道上进行比赛。这些赛道可能包括山地、雪地、泥地和沙漠等多种环境，为玩家提供了丰富的挑战和体验。"
   }
 ]
