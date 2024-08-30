@@ -94,5 +94,37 @@
     "url": "https://lixin59.github.io/nes-file/static/roms/Excitebike.nes",
     "imgUrl": "https://lixin59.github.io/nes-file/static/img/Excitebike.png",
     "description": "《越野机车》通常让玩家扮演一名摩托车赛车手，在各种崎岖、不平的赛道上进行比赛。这些赛道可能包括山地、雪地、泥地和沙漠等多种环境，为玩家提供了丰富的挑战和体验。"
+  },
+  {
+    "id": "AdventureIsland1(S)",
+    "label": "冒险岛1（无敌）",
+    "tag": ["横版过关"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland1(S).nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland1(S).png",
+    "description": "《冒险岛1》是一款由韩国游戏公司Nexon开发的2D横版卷轴冒险游戏。玩家可以选择不同职业的角色，如战士、弓箭手、法师等，每个职业都有独特的技能和特点。游戏中玩家可以在各种地图上探险，打怪升级，完成任务，挑战副本和BOSS等。"
+  },
+  {
+    "id": "AdventureIsland2(S)",
+    "label": "冒险岛2（无限命）",
+    "tag": ["横版过关"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland2(S).nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland2(S).png",
+    "description": "《冒险岛2》是一款由韩国公司Nexon开发的横版过关冒险游戏。玩家可以选择不同职业的角色，包括战士、法师、弓箭手和飞侠，每个职业有着独特的技能和特点。游戏中玩家可以在各种场景中探险，打败怪物，完成任务，提升角色等级和装备。同时，玩家还可以挑战各种副本和BOSS，获取丰厚奖励。"
+  },
+  {
+    "id": "AdventureIsland3(SD)",
+    "label": "冒险岛3（无限命+龙）",
+    "tag": ["横版过关", "怪物"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland3(SD).nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland3(SD).png",
+    "description": "《冒险岛3》是一款经典的FC红白机游戏，于1990年由日本Konami公司推出。该游戏以冒险、解谜和战斗为主题，玩家将扮演主角在各个关卡中冒险，探索未知的地图，击败敌人。游戏中有丰富多样的敌人和关卡设计，让玩家体验到不同的挑战和乐趣。玩家可以通过收集宝石和道具来提升主角的能力，从而更好地完成各项任务。游戏画面精美，音乐优美，带给玩家身临其境的游戏体验。总体而言，《冒险岛3》是一款不可错过的经典游戏，让玩家在游戏中体验到冒险的乐趣和挑战。"
+  },
+  {
+    "id": "AdventureIsland4(S)",
+    "label": "冒险岛4（无敌）",
+    "tag": ["横版过关", "战斗", "宝物"],
+    "url": "https://lixin59.github.io/nes-file/static/roms/AdventureIsland4(S).nes",
+    "imgUrl": "https://lixin59.github.io/nes-file/static/img/AdventureIsland4(S).png",
+    "description": "《冒险岛4》是一款由NEXON开发的FC红白机游戏，是经典冒险岛系列的第四部作品。游戏延续了前作的经典元素，包括多样化的游戏世界、可爱的角色设计和丰富的冒险内容。玩家可以选择不同的职业角色，如战士、法师、弓箭手等，拥有各自独特的技能和特点。游戏中有丰富的任务和副本挑战，玩家可以与其他玩家组队协作，还可以参加各种活动和比赛获得丰厚奖励。除此之外，游戏还有丰富的装备和道具系统，玩家可以通过打怪掉落、商店购买或任务奖励来获取装备，不断提升自己的实力。总体来说，《冒险岛4》是一款充满趣味和挑战的经典冒险游戏，让玩家在游戏中享受无尽的冒险乐趣。"
   }
 ]
